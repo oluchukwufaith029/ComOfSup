@@ -207,7 +207,7 @@ Hero
 @media screen and (min-width: 768px) {
   .hero {
     background-image: url('./images/IMG_20241216_145416_104.jpg');
-  background: linear-gradient(rgba(44, 174,186,0.1),rgb(0,0,0,0.1))center/cover no-repeat;
+  background: linear-gradient(rgba(44, 174,186,0.7),rgb(0,0,0,0.7))center/cover no-repeat;
   }
   .hero-banner {
     padding: 0;
