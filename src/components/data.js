@@ -1,7 +1,7 @@
 import vision1 from '../images/vision-1.jpg';
 import vision2 from '../images/vision-2.jpg';
 import vision3 from '../images/vision-3.jpg';
-import Vision4 from '../images/vision-4.jpg';
+import vision4 from '../images/vision-4.jpg';
 
 export const pageLinks = [
   {id:1, href:'#home', text:'home'},
@@ -31,7 +31,7 @@ export const pageLinks = [
       title:' Education', 
       text:'access to the education and healthcare'},
   ];
-  export const Visions =[
+  export const visions =[
     { id:1, 
     image: vision1, 
     title:'mutual support', 
@@ -52,7 +52,7 @@ export const pageLinks = [
    
   },
     { id:4, 
-    image: Vision4,
+    image: vision4,
     title:'Teaching', 
     info:' Supporting young graduates in their National Youth Service Corps (NYSC) journey.',
      
