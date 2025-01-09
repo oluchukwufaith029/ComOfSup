@@ -206,7 +206,11 @@ Hero
 }
 @media screen and (min-width: 768px) {
   .hero {
-   background-image: url('../src/images/IMG_20241216_145416_104.jpg') center/cover no-repeat;
+   background-image: url('../src/images/IMG_20241216_145416_104.jpg');
+  background-size:100% 100%;
+    background-position:center;
+background-repeat: no-repeat;
+    background: linear-gradient(rgba(44,174,186,0.1),rgba(0,0,0,0.1);
   }
   .hero-banner {
     padding: 0;
